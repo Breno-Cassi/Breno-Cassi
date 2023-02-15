@@ -1,4 +1,5 @@
 Olá, eu sou o Breno
 
-- 🔭 Programador Back - End
+- 🔭 Programador Data Science
+- 😎 Cursando Ciência da Computação
 - 🌱 Estudando JavaScript
